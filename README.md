@@ -1,8 +1,8 @@
 ### 👏 Olá! Eu sou o Lucas Araujo Silva 👋
 
-- 🌱 | Estudando: Ciência da Computação no UNASP - Centro Universitário Adventista de São Paulo
-- 📫 | Contate-me no email: lucasaraujosilva207@gmail.com
-- 😄 | Pronomes: Ele/Dele
+- 👨‍🎓 | Estudando: Ciência da Computação no UNASP - Centro Universitário Adventista de São Paulo
+- 🧷 | Contate-me no email: lucasaraujosilva207@gmail.com
+- 😎 | Pronomes: Ele/Dele
 
   ##
 
