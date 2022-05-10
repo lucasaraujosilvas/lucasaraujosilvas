@@ -17,6 +17,8 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://blog.mackenzie.br/content/images/2020/12/giphy--68-.gif">
 </div>
+  
+### Olá! Eu sou o Lucas Araujo Silva 👋
  
   ##
   
