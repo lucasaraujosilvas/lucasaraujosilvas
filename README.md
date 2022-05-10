@@ -17,8 +17,6 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://blog.mackenzie.br/content/images/2020/12/giphy--68-.gif">
 </div>
-  
-  ##
  
 <div> 
   <a href="https://www.youtube.com/channel/UCSHJ5ze4mZjZAkxL8AeDMsA/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
