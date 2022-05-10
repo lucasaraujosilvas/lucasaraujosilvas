@@ -1,8 +1,8 @@
 ### 👏 Olá! Eu sou o Lucas Araujo Silva 👋
 
-- 🌱 Estudando React
-- 📫 Contate-me no email: lucasaraujosilva207@gmail.com
-- 😄 Pronomes: Ele/Dele
+- 🌱 | Estudando React
+- 📫 | Contate-me no email: lucasaraujosilva207@gmail.com
+- 😄 | Pronomes: Ele/Dele
 
   ##
 
